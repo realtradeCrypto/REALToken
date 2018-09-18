@@ -24,7 +24,7 @@ The burn function makes sure you can't burn more tokens than supply.
 
 The burn function has been modified to allow you to burn your zero balance if you don't want to wait for the airdrop.
 
-### Don't need to pay ram
+### Don't need to pay ram IF you use air grab strategy
 
 Two additional commands have been added:
 
